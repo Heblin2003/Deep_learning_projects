@@ -5,3 +5,5 @@
 ### 2. Classification on medical images using transfer learning and fine tuning using resnet50 ->medical_img_classification.ipynb
 
 ### 3.Generating handwritten digits with mnist dataset using gan model -> GAN.ipynb
+
+## 4.learning of how data augmentation works -> data_augmentation.ipynb
